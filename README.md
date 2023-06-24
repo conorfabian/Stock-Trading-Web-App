@@ -1,4 +1,4 @@
-# Stock-Trading-Web-App
+# Stock Trading Web App
 Developed a web-based stock trading application using Flask, Python, SQL, HTML, and CSS
 
 * Implemented user authentication, allowing users to create accounts, log in, and manage their portfolios. Users are stored in an SQL database upon registration and then verified when logging in.
